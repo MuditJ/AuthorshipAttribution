@@ -1,2 +1,5 @@
 # Jupyter Notebook
 .ipynb_checkpoints
+
+#SQlite3
+*.sqlite3
